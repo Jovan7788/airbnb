@@ -7,7 +7,7 @@ const center = memo(() => {
     return (
         <Wrapper>
             <div className='search-bar'>
-                <div className='text'>搜索房源和体验</div>
+                <div className='text'>搜索房源和体验-66</div>
                 <span className='icon'>
                     <IconSearchBar />
                 </span>
